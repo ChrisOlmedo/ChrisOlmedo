@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisolmedo&label=Profile%20views&color=0e75b6&style=flat" alt="chrisolmedo" /> </p>
 
-- 🔭 I’m currently working on [a personal project named UnServicio](https://github.com/ChrisOlmedo/unserviciofrontend)
+- 🔭 I’m currently working on a personal project named [UnServicio](https://github.com/ChrisOlmedo/unserviciofrontend)
 
 - 🌱 I’m currently learning **SpringBoot, Node,js, Express and React.js**
 
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alejandro-olmedo-261067249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-olmedo-261067249/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@alejandro_olmed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@alejandro_olmed1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alejandro-olmedo-261067249/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alejandro-olmedo-261067249/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/alejandro_olmed1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="alejandro_olmed1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
