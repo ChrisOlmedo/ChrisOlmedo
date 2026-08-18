@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alejandro Olmedo</h1>
 
-<h3 align="center">Head Engineer · AI & Agentic Systems · Backend · Automation</h3>
+<h3 align="center">AI & Agentic Systems Engineer | Mechatronics Engineer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/alejandro-olmedo-261067249/">LinkedIn</a>
-  ·
+  <a href="https://alejandrodev.pro/">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/alejandro-olmedo-261067249/">LinkedIn</a> •
   <a href="mailto:alejandro.olmedo14@gmail.com">Email</a>
 </p>
 
@@ -12,130 +12,97 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Head Engineer and software developer focused on AI systems, backend architecture, integrations, and automation**.
+I'm a **Mechatronics Engineer** focused on **AI Engineering, backend systems, agentic architectures, integrations, and automation**.
 
-I currently work on the design and development of **AI agent platforms and enterprise automation systems**, building multi-agent workflows with **Python, LangGraph, LangChain, and OpenAI models**.
+I currently work as a **Head Engineer**, designing and developing AI-powered systems that combine agents, APIs, data, automation, and real-time communication.
 
-My work involves designing systems where agents can interact with tools, information sources, memory, and external services to analyze information and execute automated workflows.
+My work includes:
 
-I'm particularly interested in:
+* 🤖 **AI Agents & Multi-Agent Systems** — building agent workflows and orchestration with Python, LangGraph, LangChain and OpenAI models.
+* 🧠 **RAG & AI Systems** — integrating retrieval, embeddings, files, memory, tools and external sources into agent workflows.
+* 🔌 **APIs & Integrations** — developing integrations with external platforms and services, including Meta Developers, WhatsApp Cloud API, Instagram and Facebook.
+* ⚡ **Backend & Event-Driven Systems** — working with APIs, webhooks, WebSockets, workers, asynchronous processing and real-time communication.
+* 🗄️ **Data & Infrastructure** — designing backend systems using PostgreSQL, Supabase, Redis and Docker.
+* 📊 **AI Observability** — tracking agent executions, models, token consumption, cached tokens and AI costs.
+* 🏗️ **Agentic Engineering** — defining architecture, standards, documentation and development practices for teams working with AI coding agents.
 
-* 🤖 **AI Agents & Multi-Agent Systems**
-* 🧠 **Agent Orchestration & Agentic Engineering**
-* 🔗 **APIs & Third-Party Integrations**
-* ⚙️ **Backend Architecture & Automation**
-* 📡 **Event-Driven Systems & Webhooks**
-* 💬 **Real-Time Messaging & Communication Platforms**
-* 🗄️ **Databases & Data Architecture**
-* 🐳 **Docker & Distributed Workloads**
-
-### 🚀 What I'm Working On
-
-**AI & Agentic Systems**
-
-Designing and developing agentic platforms using **LangGraph, LangChain, Python, and OpenAI**, including agent orchestration, RAG, embeddings, memory, context management, tools, and automated workflows.
-
-**Integrations & Communication**
-
-Building integrations with **Meta Developers, WhatsApp Cloud API, Instagram, and Facebook**, working with webhooks, authentication, tokens, event processing, messaging, and file workflows.
-
-**Agentic Engineering**
-
-Working on architecture, standards, documentation, governance, and development processes for incorporating AI agents into software engineering teams.
-
-### 🛠️ Technologies & Tools
-
-<p align="left">
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-</a>
-
-<a href="https://langchain.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" alt="LangChain" width="40" height="40"/>
-</a>
-
-<a href="https://www.langchain.com/langgraph" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langgraph/langgraph-original.svg" alt="LangGraph" width="40" height="40"/>
-</a>
-
-<a href="https://openai.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/openai" alt="OpenAI" width="40" height="40"/>
-</a>
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</a>
-
-<a href="https://redis.io/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-</a>
-
-<a href="https://supabase.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/>
-</a>
-
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-</a>
-
-<a href="https://nodejs.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-</a>
-
-<a href="https://www.typescriptlang.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-</a>
-
-<a href="https://react.dev/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-</a>
-
-</p>
-
-### 🔧 Other Technologies
-
-**Backend:** Python, Node.js, TypeScript, REST APIs, Webhooks, WebSockets, Async Processing
-
-**AI:** LangGraph, LangChain, OpenAI, RAG, Embeddings, Prompt Engineering, Multi-Agent Systems
-
-**Infrastructure:** Docker, Docker Compose, Redis, Workers
-
-**Databases:** PostgreSQL, Supabase, MongoDB, MySQL
-
-**Frontend:** React, TypeScript, Vite
-
-**Integrations:** Meta Developers, WhatsApp Cloud API, Instagram, Facebook
-
-### 📌 Projects
-
-#### UnServicio
-
-AI-powered local services platform connecting users with service providers.
-
-The platform uses **Supabase** for database and authentication services and integrates AI agents through **WhatsApp**. Users can share their location through WhatsApp and receive recommendations for nearby registered service providers.
-
-#### Atlas AI
-
-AI agent orchestration platform with a **Telegram-based AI interface** for creating and publishing social media content.
-
-Currently integrates with **Facebook and Instagram** for automated content publishing.
-
-#### Orbis
-
-AI agent orchestration system focused on **trading-related workflows and analysis**, coordinating specialized agents to perform automated tasks and process information.
+I'm particularly interested in **AI systems, distributed systems, system design, automation and software development with AI agents**.
 
 ---
 
-### 🤝 Connect With Me
+### 🛠️ Languages & Technologies
+
+#### AI & Agentic Systems
 
 <p align="left">
-<a href="https://linkedin.com/in/alejandro-olmedo-261067249/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-
-<a href="mailto:alejandro.olmedo14@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" alt="Email" height="30" width="40" />
-</a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI"/>
 </p>
 
+**LangGraph · LangChain · RAG · AI Agents · Multi-Agent Systems · LLMs · Embeddings · Tool Calling · AI Automation**
+
+#### Backend & APIs
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
+</p>
+
+**REST APIs · Webhooks · WebSockets · Event-Driven Architecture · Async Processing · Real-Time Systems**
+
+#### Databases & Infrastructure
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="40" height="40" alt="Supabase"/>
+</p>
+
+**PostgreSQL · Supabase · Redis · Docker · Docker Compose · Workers · Cloud Services**
+
+#### Other Technologies
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" alt="MongoDB"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
+</p>
+
+---
+
+### 🚀 What I'm Building
+
+I'm currently working on systems that combine **AI agents, automation, APIs, messaging, data and real-time communication**.
+
+Some of my work involves building platforms and infrastructure where AI agents can:
+
+* Analyze and retrieve information
+* Work with files and external data
+* Use tools and APIs
+* Communicate through multiple channels
+* Execute automated workflows
+* Coordinate with other specialized agents
+* Track execution and AI usage
+* Operate within controlled engineering environments
+
+---
+
+### 📫 Contact
+
+<p align="left">
+  <a href="mailto:alejandro.olmedo14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alejandro-olmedo-261067249/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://alejandrodev.pro/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</p>
